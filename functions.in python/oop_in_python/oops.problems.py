@@ -80,3 +80,8 @@ class ElectricCar(Car):
 my_tesla = ElectricCar("Tesla", "Model S", "85Kwh")
 #print(my_tesla.brand)
 print(my_tesla.get_brand())
+
+
+
+
+
